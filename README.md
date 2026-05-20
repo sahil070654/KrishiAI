@@ -1,0 +1,2 @@
+# KrishiAI
+SDP Project
